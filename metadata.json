@@ -1,0 +1,6 @@
+{
+  "name": "PAKVERIFY",
+  "description": "AI-assisted claim verification tool for Pakistani digital communities with real-time Google Search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
